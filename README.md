@@ -8,7 +8,7 @@ This repo is for the USTC Data Structure course project.
 
 Three modes are supported:
 
-1. Interactive mode: `./compress`, Then you will be asked to choose (de)compress mode and input the path of the file you want to compress/decompress
+1. Interactive mode: `./compress`, then you will be asked to choose (de)compress mode and input the path of the file you want to compress/decompress
 
 2. Command-line compress mode: `./compress -c <input_file>`, then the compressed file will be outputted with suffix `.huff`.
 
