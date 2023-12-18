@@ -1,6 +1,6 @@
-# Huffman-Encoding Compression Algorithm
+# Huffman-Tree Compressor/Decompressor
 
-Realizing a (de)compress program based on Huffman Tree, by C++.
+Realizing a compress/decompressor program based on Huffman Tree, by C++.
 
 This repo is for the USTC Data Structure course project.
 
